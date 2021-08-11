@@ -1,7 +1,6 @@
-# Find optimal strategy for rock paper scissors
+# Find optimal strategy for rock paper scissors using regret matching
 
-# Output:
-
+# Output: 
 First Strategy:
 rock: 0%, paper: 100%, scissors: 0%
 
